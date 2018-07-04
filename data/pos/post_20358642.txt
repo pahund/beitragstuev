@@ -1,0 +1,1 @@
+Hi alle zusammen, ich bin beim Stöbern in der WIS auf folgendes gestoßen: Wenn das AGR-Ventil (Abgas-Rückführung) nicht funktionniert, oder das Themoventil, das zur Steuerung dient, dann läuft der Motor unrund. Im Anhang noch die Anleitung zur Fehlersuche.

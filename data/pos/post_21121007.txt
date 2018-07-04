@@ -1,0 +1,1 @@
+Ein Photosensor ermittelt die Helligkeit, ab einen bestimmen Wert wird Spiegel per Flüssigkeitskristalle abgeblendet, dadurch wird die Helligkeit des reflektierenden Lichtes reduziert.

@@ -1,0 +1,1 @@
+Die Balkenanzeige ist der aktuelle Verbrauch, nicht der Tankinhalt. Darunter steht die Restreichweite, zumindest bis eine Restreichweite von ca. 40km unterschritten wird. Dann taucht nur noch das BITTE TANKEN Symbol auf.

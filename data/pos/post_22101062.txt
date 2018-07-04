@@ -1,0 +1,1 @@
+210 820 48 89 mit + ohne CAN Für alle ohne Lenkradbedienung 210 820 54 89 mit CAN 210 820 56 89 mit CAN 208 820 30 89 ohne CAN (wie 2108204889) 208 820 37 89 mit+ohne CAN (wie 2108204889) 208 820 34 89 mit CAN 208 820 40 89 mit CAN 208 820 44 89 mit CAN die mit CAN brauchen den besagten Adapter. so long michael

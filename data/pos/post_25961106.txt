@@ -1,0 +1,1 @@
+Der Fehlercode 1614 hat etwas mit dem Transponderschlüssel ("falscher Transponder")zu tun und muss zuerst untersucht werden, weil die Wegfahrsperre nämlich die Benzinpumpe abschaltet! 0230 ist "Spannung Benzinpumpe zu hoch", könnte aber durch 1614 verursacht werden.

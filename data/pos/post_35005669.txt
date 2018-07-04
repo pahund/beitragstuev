@@ -1,0 +1,1 @@
+Problem: Bluetoothverbindung bricht in aller Regelmässigkeit die Verbindung zur FSE ab. Lösung: "Bluetooth Keepalive" aus dem Play Store (Kosten: 1,- Euro) Das Programm verhindert, dass die BT-Verbindung in den "Sleepmodus"geht. Danke an "alexbrickwedde" für dieses simple aber effektive Programm!

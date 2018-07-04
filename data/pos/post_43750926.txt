@@ -1,0 +1,1 @@
+Der T4 mit 2,5 Liter Benzinmotor hat öfter Probleme durch einen defekten Hallgeber im Zündverteiler. Dieser stört u.U. die WFS so das diese sich nicht mehr freischaltet und den Startvorgang verhindert. Der Motor startet dann und geht nach 1-2 sek. wieder aus. Die Lösung ist dann meistens ein neuer Zündverteiler.

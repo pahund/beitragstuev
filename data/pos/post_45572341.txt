@@ -1,0 +1,1 @@
+Es gibt ein Programm: mp3gain, damit kann man seine mp3 Sammlung "normalisieren" sprich auf eine einheitliche Lautstärke bringen.

@@ -1,0 +1,1 @@
+Mit dieser Funktion bewirkst Du, dass keine weiteren Kommentare in dem Thread erstellt werden können. Diese Aktion lässt sich wieder rückgängig machen.

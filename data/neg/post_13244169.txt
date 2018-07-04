@@ -1,0 +1,1 @@
+Ja, das hab ich lokal hier schon gefixt. Nach dem nächsten Deployment (heute Abend) sollte dann astrein funktionieren. Gruß, Bert

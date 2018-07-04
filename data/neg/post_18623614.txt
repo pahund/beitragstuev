@@ -1,0 +1,1 @@
+Spalte 1 langer eintrag Spalte 2 mittel Spalte 3 a1 b1 c1 a2 b2 c2 Spalte 1 Spalte 2 Spalte 3 a1 mittel b1 langer Eintrag c1 a2 b2 c2 Problem: in der Vorschau (blaues Farbschema) siehts hervorragend aus, in beta leider nicht. *yeah* endlich Tabellen!

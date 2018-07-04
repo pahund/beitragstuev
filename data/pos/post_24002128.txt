@@ -1,0 +1,1 @@
+Hallo zusammen, habe heute etwas in meiner Passat Literatur geblättert und folgende Anleitung gefunden, wie man den Fehlerspeicher der KE Motronic vom Passat (Baujahr 1988 - 1992) mit einem normalen Diodenprüfer auslesen kann. Ist eventuell für den einen oder anderen ganz interessant. Andreas Anleitung/Fehlerspeicher_selber_auslesen.pdf

@@ -1,0 +1,1 @@
+blabla blabla mit Leerzeichen am Ende anderer Text blabla ohne Leerzeichenerzeugt ein Leerzeichen.

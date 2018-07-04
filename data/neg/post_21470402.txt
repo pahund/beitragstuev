@@ -1,0 +1,1 @@
+ok - chinesische Schriftzeichen und einzelne Schriftzeichen vom Pinyin werden zwar im Editor angezeigt, aber im Board werden sie dann nur durch Fragezeichen angezeigt und wenn man nochmal bearbeiten will, sind auch nur noch Fragezeichen da :(

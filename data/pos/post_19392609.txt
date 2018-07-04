@@ -1,0 +1,1 @@
+Je nach Baujahr (VorMoPf - Mopf) gibt bei der Klimaautomatik 2 Varianten von der A/C-Taste. VorMoPf: AC Off steht auf der Taste, wenn sie leuchtet ist der Klimakompressor AUS, die Luft wird also nicht entfeuchtet und runtergekühlt. MoPf: A/C steht auf der Taste, wenn sie leuchte ist der Klimakompressor AN, Luft wird entfeuchtet und gekühlt.

@@ -1,0 +1,1 @@
+Also für den M112 sind das die folgenden Drehmomente. hinteres Motorlager an Querträger: 30 Nm Querträger hinten an Karosserie: 40 Nm Motorlager an Getriebe (Schraube/Mutter): 40 Nm vordere Motorlager an Vorderachsträger: 35 Nm vordere Motorlager an Motorträger: 35 Nm Motorträger an Motorblock: 25 Nm Abschirmblech an Motorträger: 10 Nm

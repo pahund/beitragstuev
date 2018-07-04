@@ -1,0 +1,1 @@
+ABS spielt in der Sache keine rolle - die Drehzahl wird beim ABS - Sensor abgenommen , da deiner sicher ohne ESP ist :-) schreibe mal die teilenummer vom Block auf - wenn es ein 8E0614111T oder 4D0614111 ist ,sind die ABS Blöcke kompaktiebel . Schwieriger wird es mit Ausstattung ASR !dazu bräuchte man die ABS Blocknummer mit Buchstaben hinten dran. Gruß Matze

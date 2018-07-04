@@ -1,0 +1,1 @@
+So, die ersten 200 Threads im LKR anzeigen lassen geht per: http://www.motor-talk.de/forumdisplay.php?s=&forumid=17&daysprune=1000&sortorder=&sortfield=lastpost&perpage=200&pagenumber=1 Wobei für andere Foren nur die 17 bei "forumid" ausgetauscht werden muß. ThanX 2 fbisnoopy

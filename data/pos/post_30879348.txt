@@ -1,0 +1,1 @@
+Es gibt eine Datenbank der Dekra . Einfach dort die Daten des Fahrzeugs eingeben. Falls es für dieses Modell einen Partikelfilter gibt, wird er dort aufgelistet.

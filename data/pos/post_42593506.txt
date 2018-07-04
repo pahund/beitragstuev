@@ -1,0 +1,1 @@
+Wenn Du die Situation hast, dass Du mehrere Beiträge in einem Thread (die auf der gleichen Seite sind) unsichtbar machen möchtest, kannst Du dies über das Tastenkürzel Alt + A machen. Es poppt dann ein kleines Fenster auf (Bild 1) und Du kannst einfach die Beiträge mit einem Klick markieren und dann in dem kleinen Fenster auf "Unsichtbar machen" klicken (Bild 2).

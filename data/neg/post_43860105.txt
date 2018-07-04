@@ -1,0 +1,1 @@
+Text umschlossen Akkuladezeitinformation -> Ein Wort (Keine Verlinkung soll erfolgen) EfficientsDynamicsEngine -> Zwei Worte (Keine Verlinkung soll erfolgen) Betriebskosteninformation bei Elektroautomobile -> Drei Worte (Keine Verlinkung soll erfolgen) Lithium-Ionen-Akku-Indikator -> getrennt mit "-" ( Keine Verlinkung soll erfolgen)

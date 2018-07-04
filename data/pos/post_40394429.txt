@@ -1,0 +1,1 @@
+Original geschrieben von limarus Hallo die vordere Batterie ist nur für die SBC und keine Stützbatterie. Wen die defekt oder leer ist kommt nicht die Meldung Komforabschaltung aktiv sonder eine rote Meldung: Batterie-Generator. Gruß Zum 69. Mal, und nur für dich. ES GIBT KEINE SBC BATTERIE!!! (siehe PDF (elf Seiten!)) Gruß MiReu

@@ -1,0 +1,1 @@
+Problem gelöst. K40 bekommt normalerweise über den 9-poligen Stecker Masse (braunes Kabel auf Klemme 9), bei mir allerdings nicht. Zusätzliches Massekabel auf das braune Kabel gelegt und alles war gut. Nicht leicht zu finden, den das Starterrelais hatte trotzdem Masse.

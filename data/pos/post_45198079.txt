@@ -1,0 +1,1 @@
+Hallo Christian, ich vermute, dass du einmal kurz auf die rechte "ok"-Taste gedrückt hast und so in den Langzeitspeicher gewechselt bist. Ist erkennbar durch eine 2 am Rand des Displays, der Kurzzeitspeicher hat die 1. Durch nochmaliges drücken von "ok" müsstest du wieder in den Kurzzeitspeicher kommen (der sich nach 2 Std. automatisch resettet). Gruß Michael

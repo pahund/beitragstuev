@@ -1,0 +1,1 @@
+Im alten Frontend werden Threads zum löschen einfach ins Forum "Gelöschte Threads" verschoben. Im neuen Frontend kannst einfach den Thread löschen, dann passiert genau das gleiche (Verschiebung in "Gelöschte Threads". viele Grüße, Bert

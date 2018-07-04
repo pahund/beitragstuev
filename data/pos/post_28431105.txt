@@ -1,0 +1,1 @@
+Bei den alten (bis ~MJ 2006) kann man da was ändern..... Ich hab bei mir die Golf GTI Kennlinie codiert, einfach den Apassungskanal ändern. Bei den neuen kann man nur die Kennlinien wechseln, geht aber nur mit dem VAS, kann also nur VW und fähige Leute, geht nicht mit VCDS.

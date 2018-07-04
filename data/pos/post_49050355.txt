@@ -1,0 +1,1 @@
+Die Daten zum DPF sind in MWB 104 hinterlegt: 104.1 Ölaschevolumen 104.2 Beladungsrussmassenwert berechnet 104.3 Beladungsrussmassenwert gemessen 104.4 Stecke seit letzter Regeneration Der Grenzwert für 104.1, bei dem der 3.0TDI DPF gewechselt oder gereinigt werden muß, liegt bei 0,52. Gemessen wird in Liter.

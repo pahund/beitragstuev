@@ -1,0 +1,1 @@
+Hallo, Anpassung Schalttafeleinsatz: Intervallwert der SIA für Service-Inspektion 1 (Zeit) Kanal 7 Sollwert: 360 Tage Eingabewert: 00036 Intervallwert der SIA für Service-Inspektion 2 (Zeit) Kanal 8 Sollwert: 730 Tage Eingabewert: 00073 Intervallwert der SIA für Ölservice Sollwert: 15000 km Eingabewert: 00015 MfG Turbonet

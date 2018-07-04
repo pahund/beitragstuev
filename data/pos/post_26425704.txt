@@ -1,0 +1,1 @@
+Hier wird mal auf einigen Bildern beschrieben, auf welche Lötpunkte zu achten sind bzw wie die kalten Lötstellen aussehen. Wichtig, zum nachlöten einen Elektronikerlötkolben verwenden und wenn schon Baumarktlötkolben, dann einen, der nicht mehr wie 25Watt hat.

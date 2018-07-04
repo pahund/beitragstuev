@@ -1,0 +1,1 @@
+Den Notlauf erkennt man nur daran, dass die Drehzahl zum Schutz des Motors begrenzt wird. Eine KI-Anzeige "Notlauf" (oder etwas in der Art) gibt es nicht. Das Runterschalten bringt keine weitere Beschleunigung. Kickdownfunktion bei Automatikgetrieben ist nicht vorhanden

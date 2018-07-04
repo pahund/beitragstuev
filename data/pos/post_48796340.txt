@@ -1,0 +1,1 @@
+Geht seit letztem Wochenende, im Activator ist die richtige Datei (EndungF) und dann über zdc upload.

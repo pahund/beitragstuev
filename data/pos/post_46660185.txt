@@ -1,0 +1,1 @@
+@dschann Wie User @V8-Freak zuvor gepostet hat, befindet sich in der Dachbedieneinheit doch ein Lüfter! Der Lüfter selbst wird im Schaltplan als Symbol unter N70b1 nicht dargestellt, ist somit nur aus einer ergänzenden Zuordnungsliste als "Innenraumtemperatursensor mit integrierten Lüfter" erkennbar. Sorry Gruß wer_pa

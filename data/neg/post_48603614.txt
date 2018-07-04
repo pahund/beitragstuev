@@ -1,0 +1,1 @@
+Ich hab meinen Router zu Hause darauf eingestellt Edit: sieht sehr gut aus, api status ist nicht ausgerollt und rendert den 404 error in den startdialog der app. Sonst alles gut.

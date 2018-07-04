@@ -1,0 +1,1 @@
+TPI: 94J1 Freigabe: 07.09.2016 Grund: Tagfahrlicht ohne Funktion Betroffene Fahrzeuge: Nur Xenon Maßnahmen: Softwareupdate Bordnetzsteuergerät

@@ -1,0 +1,1 @@
+Nachfolgen der Code für die freischaltung des Hidden Menü. Es gibt ein Hidden Menu beim 2G High; genau so wie beim 3G High und beim 3G Plus MMI 2g stg 07 -> Channel 8 -> Change 0 to 1 MMI 3g stg 5f  -> Channel 6 -> Change 0 to 1

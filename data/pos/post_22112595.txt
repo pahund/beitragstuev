@@ -1,0 +1,1 @@
+schlüssel auf stellung 2 im lenkradschloss stellen und knopf 0 innerhalb einer sekunde 2 mal drücken. schlüssel auf stellung 0 stellen. knopf 0 drücken und halten und schlüssel auf stellung 2 stellen. weiterhin knopf 0 gedrückt halten und ca. 10 sek warten bis signal kommt. dann knopf 0 loslassen. fertig.

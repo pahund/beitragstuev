@@ -1,0 +1,1 @@
+Standheizung entriegeln: Standheizung - Stg.18 - Anpassung -10 - Kanal - 42 wählen - Alter Wert: 0 - Neuer Wert: 1 setzen - Speichern - Fehler Standheizung verriegelt --> wieder entriegelt

@@ -1,0 +1,1 @@
+Ach, beim zusammenfügen von Threads hab ich irgentwie immer einen anderen Thread hergezaubert Siehe dieser. War vielleicht ein Datenbankprob wegen dem neuen Server. ich muss doch nur die Nummer aus der Adresse kopieren und dann im richtigen Feld bei "zusammenfügen" einsetzen, oder? Da hätte ich es einmal gebraucht, dann geht nix:D

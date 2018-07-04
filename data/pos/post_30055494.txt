@@ -1,0 +1,1 @@
+VIN-Decoder Komplette Ausstattung Name: eu111111 PW: bmwetk1 VIN = Vehicle Ident Number FIN = Fahrzeug Identifikations Nummer Es müssen die letzten 7 stellen der FIN/VIN sein, diese steht auf der Beifahrerseite unterhalb der Windschutzscheibe, am linken Dom oder in den Fahrzeugpapieren.

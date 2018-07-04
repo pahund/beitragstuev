@@ -1,0 +1,1 @@
+Im Stand dreht der Motor nicht höher als 4000u/min, zu deiner und zur Sicherheit des Motors. Tut er das aber auch während der Fahrt, so ist mit Sicherheit irgendwas im Fehlerspeicher, was entweder auf den Raddrehzahlsensor oder den Automatikwählhebel schließen lässt, dann merkt die Motorsteuerung nämlich nicht dass das Auto fährt.

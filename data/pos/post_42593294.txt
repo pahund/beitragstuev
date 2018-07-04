@@ -1,0 +1,1 @@
+Mit dieser Funktion verschiebst Du den Thread in ein anderes Forum. In dem Forum, aus welchem er kommt, bleibt der Thread ohne Inhalt bestehen und beinhaltet lediglich einen Link zu dem neuen verschobenen Thread.

@@ -1,0 +1,1 @@
+Laut Informationen die ich bekommen habe: Nebelscheinwerfer links gehört an N10 UH2 B:13 (24 poliger Stecker schwarz grau Codierung A auf Pin 13) Nebelscheinwerfer rechts gehört an N10 UH1 B:1 (24 poliger Stecker schwarz naturgrau Codierung B auf Pin 1)

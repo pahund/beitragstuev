@@ -1,0 +1,1 @@
+Codierung für mehr Auswahl im Individual Menü des Drive Selects STG09, Anpassungskanal 70, dezimal 44 + x eintragen. +2 Comfort +4 Auto +8 Dynamic +16 Offroad +32 Efficiency Beispiel STG09, Anpassungskanal 70, dezimal die Summe der gewünschten Modes eintragen. z.B. 2 + 4 + 8 + 32 = 46

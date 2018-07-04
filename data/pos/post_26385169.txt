@@ -1,0 +1,1 @@
+09 Zentral Elektrik --> Anpassung --> Kanäle 63, 64, 65, 66 (Standard ist hier 2 (Auto)) --> Werte zB. ändern auf 3 Möglich wären auch: 1 = Comfort 2 = Auto (Standard) 3 = Dynamik 4 = Individual HIER der entsprechende Thread.

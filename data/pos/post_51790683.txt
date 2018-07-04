@@ -1,0 +1,1 @@
+TPI: 67A7 Freigabe: 13.10.2017 Grund: Prüfmodus wird durch "Abwürgen" des Motors unterbrochen Betroffene Fahrzeuge: Nur Fahrschulfahrzeuge Maßnahmen: Softwareupdate Bordnetzsteuergerät, Einbau eines Adapterkabels

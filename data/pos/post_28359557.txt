@@ -1,0 +1,1 @@
+Die flexiblen Kontaktplatinen am Bremslicht verschleißen / verschmoren. Dies ist ein bekannter Fehler, das Teil ist unterdimensioniert. Kontakte mit feinem Schmirgelpapier putzen. Verbiege die Kontaktzungen am Birneneinsatz so um 2 mm, sodass sie an etwas anderer Stelle der Platine wieder Kontakt bekommen. Viel Erfolg!

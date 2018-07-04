@@ -1,0 +1,1 @@
+Verursacher wird das Ladedruckregelventil sein was intern undicht ist. Beim T5.1 hilft ein neues Ventil. Beim T5.2 gibt es geänderte Unterdruckschläuche mit einem intergrierten Schalldämpfer welcher das bummen unterdrückt. Ob diese Schläuche auch beim T5.1 passen und helfen wurde noch nicht getestet.

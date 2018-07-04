@@ -1,0 +1,1 @@
+16-poliger OBD-Stecker http://theresias.com/tutorials/1h_g4t/obd.jpg 4 - Masse / 7 - K-Line / 15 - L-Line / 16 - +12V 2x2-Stecker http://theresias.com/tutorials/1h_g4t/2x2_white.jpg http://theresias.com/tutorials/1h_g4t/2x2_black.jpg Weißer Stecker: 1 - K-Line / 2 - L-Line Schwarzer Stecker: 3 - +12V / 4 - Masse

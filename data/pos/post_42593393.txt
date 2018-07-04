@@ -1,0 +1,1 @@
+Mit dieser Funktion kannst Du den Avatar eines Users löschen. Dies machen wir aber nur in extremen Situationen, also wenn z.B. Pornographie, Beleidigung, politisch nicht korrektes oder Werbung abgebildet sind. Prinzipiell gilt aber immer, dass wir normalerweise dem User erklären was nicht passt und ihn bitten es selbst zu ändern.

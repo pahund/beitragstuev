@@ -1,0 +1,1 @@
+Hallo, richtig, normalerweise wird die Kartenanzeige in Nordausrichtung (Norden immer oben) angezeigt. Aber man kann das auch ändern, sodaß die gewählte Route in Fahrtrichtung nach oben angezeigt wird. Siehe Anhang. Grüße, Jürgen W. aus P.

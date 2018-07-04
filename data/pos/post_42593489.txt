@@ -1,0 +1,1 @@
+Mit dieser Funktion bewirkst Du, dass keine weiteren Kommentare unter dem Artikel erstellt werden können. Diese Aktion lässt sich wieder rückgängig machen.

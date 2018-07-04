@@ -1,0 +1,1 @@
+Spiegelanklappen per Fernbedienung: Steuergerät 42 / Codierung 07 / Byte 4 / Bit 6 aktivieren (Comfort mirror folding active) Steuergerät 52 / Codierung 07 / Byte 4 / Bit 6 aktivieren (Comfort mirror folding active)

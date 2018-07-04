@@ -1,0 +1,1 @@
+die hintere Beleuchtung wird auch von den hinteren Türen eingeschaltet. Wenn ein Türkontakt nicht das Signal gibt: Aus!, dann bleibt das Licht an bis zur Zwangsabschaltung. Also: gucken ob alle Schalter ihrer Funktion gerecht werden.

@@ -1,0 +1,1 @@
+FREISCHALTUNG AUSSENTEMPERATURANZEIGE unter der Uhrzeit (siehe bild) via Diagnose Auswahl Steuergerät 17 : Kombiinstrument dann in die Anpassungskanäle gehen und hier AP 20 auswählen diese dann auf 100 setzen  (wahlweise kann auch 111 gesetzt werden) FERTIG Gruss Andy EDIT: Bild folt  (sheki bitte hinzufügen - DANKE) -du hast das bild noch

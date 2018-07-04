@@ -1,0 +1,1 @@
+In Anhang eine Tabelle mit den Widerstandswerten beim Kühlmittel/Ansauglufttemperaturfühler. Beim 4poligen Kühlmitteltem.sensor wird der Widerstand an Pin 1+3 gemessen.

@@ -1,0 +1,1 @@
+Informationen über das Auto kann man der Datenkarte zu seinem Fahrzeug entnehmen, die man mit seiner Fahrgestellnummer unter http://mbvin.tk/ abrufen kann.

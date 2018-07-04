@@ -1,0 +1,1 @@
+Symptom: Bei erstmaligen erreichen von 40 km/h nach dem Motorstart, hört man ein klacken und man spürt eine leichte Vibration in den Pedalen. Lösung: Es ist normal. Dies ist ein Selbsttest vom ABS/ESP System. Thread: Geräusch beim Wegfahren immer bei 40km/h

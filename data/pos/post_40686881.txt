@@ -1,0 +1,1 @@
+Handbuch des RNS-E, Seite 126: Zum Koppeln muss die Bluetooth-PIN (1234) innerhalb von 30 Sekunden eingegeben werden. Danach wird die Verbindung immer wieder automatisch hergestellt. (sinngemäß; kann jeder selbst nachlesen....)

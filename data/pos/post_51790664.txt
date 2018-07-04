@@ -1,0 +1,1 @@
+TPI: 24S0 Freigabe: 21.04.2016 Grund: Fehlmeldung der Katalysator-Sensoren Betroffene Fahrzeuge: S4 Maßnahmen: Softwareupdate Motorsteuergerät

@@ -1,0 +1,1 @@
+Nein, Zündungssignal kommt über CAN. Zapf den Zigarettenanzünder vorne an.

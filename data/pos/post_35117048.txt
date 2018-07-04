@@ -1,0 +1,1 @@
+ZV-Belegung Fahrertür (Modelljahr 2001): grün/gelb = Türkontaktschalter blau = Stellelement Zentralverriegelung gelb/blau = Stellelement Zentralverriegelung (SAFE) braun/gelb + grün/blau = Kontaktschalter Schließzylinder grau/braun + grün/rot = Motor Zentralverriegelung lila/rot + grün/rot = Motor Zentralverriegelung (SAFE) braun = Masse

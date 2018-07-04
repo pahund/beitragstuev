@@ -1,0 +1,1 @@
+B3/B4 Limousine: links = 357201653B mitte = 3A0201654 rechts = 3A0201654 B3/B4 Variant: links = 333201653 mitte = 333201654 rechts = 333201654 B3/B4 Limo/Variant syncro: links = 357201653 rechts = 357201654 im dazugehörigem Fred sind noch PDF´s im Anhang zum Selbstbau als Schablone!

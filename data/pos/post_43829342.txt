@@ -1,0 +1,1 @@
+Hallo, das ist ein Problem mit Unterspannung im hinteren rechten Relaiskasten, das bei frühen Modellen auftritt. Lösung ist der Austausch des Relaiskastens gegen den Nachfolger und das Umverkabeln zweier Stecker, das wird hier beschrieben, aber auf Englisch: workshop-manuals Ich fürchte, der Wischermotor und die Software waren vergebens :(

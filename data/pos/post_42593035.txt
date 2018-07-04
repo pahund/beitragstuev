@@ -1,0 +1,1 @@
+Es ist gerade am Anfang hilfreich, die neuen Funktionen eines Moderators in unserer eigenen Teststrecke zu testen, Umfrage erstellen, Threads schliessen, Threads oder Beiträge bearbeiten, Threads verschieben usw. Eine Funktion sollte dabei bitte nicht getestet werden--> Der Bann;) Wir wollen einen neuen Kollegen ja nicht gleich wieder verlieren.

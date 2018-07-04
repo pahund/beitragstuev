@@ -1,0 +1,1 @@
+Hab's gerade selbst herausgefunden und getestet. Es lässt sich am Handy selbst einstellen. Beim Nokia 6310i so: Menü - Einstellungen - Zubehöreinstellungen - Freisprechen - Standard-Profil - und dann die gewünschte Lautstärke einstellen. So hat das Handy immer dieselbe Klingeltonstärke im Auto, egal wie man das Handy im "Handbetrieb" eingestellt hat. Hardy

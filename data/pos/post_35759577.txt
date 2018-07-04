@@ -1,0 +1,1 @@
+weißer oder brauner Stecker: 2x2 OBD 1 Pin 1 K-Line (grau-weiß) Pin 2 L-Line (gelb) schwarzer Stecker: Pin 1 Klemme 30 / 12V+ (rot) Pin 2 Klemme 31 / Masse (braun) OBD 2 Stecker: Pin 4 Klemme 31 (Masse) Pin 7 K-Line Pin 15 L-line Pin 16 Klemme 30 (12V+)

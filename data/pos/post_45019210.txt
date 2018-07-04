@@ -1,0 +1,1 @@
+Die Pinbelegung lautet wie folgt. 1 + 7 Sensor v.r. 1 + 5 Sensor v.l. 1 + 4 Sensor h.r. 1 + 6 Sensor h.l. Damit wird die Isolationsleitung geprüft. Die Sensoren werden über folgende PINs gemessen. 7 + 25 Sensor v.r. 5 + 25 Sensor v.l. 4 + 22 Sensor h.r. 6 + 24 Sensor h.l.

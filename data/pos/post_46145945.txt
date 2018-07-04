@@ -1,0 +1,1 @@
+Hallo jottlieb Da hast du vollkommen recht :) Ein USB Hub hat einen Controler (Beispiel Bild 3 und 4) Ich war gestern Abend gedanklich leider etwas woanders. (Bild 5 und 6) Der TE benötigt jedoch folgende Schnittstelle (1. USB Laden und 2. USB Datenaustausch) und hierfür ist kein Controler erforderlich. (Original siehe Bild 1 und 2) Gruß wer_pa

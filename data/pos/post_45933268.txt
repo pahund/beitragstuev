@@ -1,0 +1,1 @@
+Hier ist als pdf Anleitung zum umbauen des Antennensystems, das wird benötigt beim Nachrüsten vom RNS-E. Damit wird der Radioempfang deutlich besser und der Fehlerspeichereintrag (ZF Kurzschluss nach Masse) ist weg. Danke an Scratch für diese Anleitung

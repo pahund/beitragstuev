@@ -1,0 +1,1 @@
+Während der Fahrt erfolgt eine Drehzahlbegrenzung bei 4.000 Umdrehungen und die ABS-Kontrolle leuchtet: Fehlerspeicherauslesen brachte einen defekten Sensor hinten links, bzw. am Differential. Durch Austausch des Sensors leuchtet die ABS-Kontrollleuchte nicht mehr, das ABS funktioniert wieder und der Motor regelt erst bei erreichen der Maximaldrehzahl ab.

@@ -1,0 +1,1 @@
+TPI: 90K2 Freigabe: 12.10.2017 Grund: Resttage Serviceintervallanzeige nicht korrekt Betroffene Fahrzeuge: Alle Maßnahmen: Softwareupdate Kombiinstrument

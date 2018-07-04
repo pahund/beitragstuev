@@ -1,0 +1,1 @@
+Hallo, in der Diego Software gibt es den Reiter "Konfiguration (F3)"... und dort auf "Einfache" gehen... im unteren Teil dieses Reiters findest Du ein Drop-Down Menue wo man den "Typ des Gas-Niveau-Sensors" auswählen kann... rechts daneben befindet sich der Button "Konfigurierung" :) Viel Spaß !

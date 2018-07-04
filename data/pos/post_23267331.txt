@@ -1,0 +1,1 @@
+Einstellwerte für alle FIRE Motoren anwendbar: Einlassventil 0,40mm +/- 0,05mm Auslassventil 0,50mm +/-0,05mm

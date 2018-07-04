@@ -1,0 +1,1 @@
+Wollte noch ergänzen, dass es vermutlich nicht das aktuellste HFP-Modul ist. Ich schätze es ist das B67875877. Sollte aber dennoch mit HFP kompatiblen Bluetooth-Telefonen funktionieren. Zum Ausbauen einfach den kleinen schwarzen Knopf drücken und das Modul nach vorne bzw. hinten aus der UHI-Schnittstelle schieben. Bedienungsanleitung im Anhang.

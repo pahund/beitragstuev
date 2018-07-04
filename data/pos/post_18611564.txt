@@ -1,0 +1,1 @@
+Hi, der Lautstärkeregler ist ein sog. Inkrementalgeber und auf der Frontplatine genannt Schalterplatte eingelötet. Den bekommst du beim Bosch-Dienst; austauschen kannst du den mit ein bisschen Lötkenntnissen selbst. Hier die Ersatzteilnummer 8 941 481 057. Hoffe gedient zu haben! Grüssle

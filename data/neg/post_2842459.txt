@@ -1,0 +1,1 @@
+Da man auch als Mod das Lesen einer PN ohne Lesebestätigung nur einmal nutzen kann hier mal noch nen kleinen Kniff um das zu umgehen: Den Link zur betreffenden PN rauskopieren und ein einem neuen Browserfenster in die Adresszeile einfügen und dahinter folgende Zeichenfolge einfügen: &noreceipt=yes Damit sollte die PN auch bei mehrmaligen Lesen unbestätigt bleiben. ;)

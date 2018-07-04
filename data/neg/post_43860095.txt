@@ -1,0 +1,1 @@
+mit Text-Formatierung akkuladezeit -> Ein Wort (Verlinkung soll erfolgen) efficient dynamics -> Zwei Worte (Verlinkung soll erfolgen) betriebskosten bei elektroautos -> Drei Worte (Verlinkung soll erfolgen) lithium-ionen-akku -> getrennt mit "-" (Verlinkung soll erfolgen)

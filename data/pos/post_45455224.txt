@@ -1,0 +1,1 @@
+@Oltti ....wenn MB meint die Beläge halten noch so lange (denke deine Werkstatt kann auch die 5000 Km-Angabe nicht beweisen) MB-Verschleißfaktoren: VA = 4000km/mm, HA 6000km/mm Beispiel Restlaufstrecke an der VA ermitteln: Gesamtbelagdicke = ca. 9 mm - 3mm (nicht nutzbare Verlustdicke) = 6 mm x 4000km/mm (VA Verschleißfaktor) = 24.000km Restlaufstrecke. Gruß wer_pa

@@ -1,0 +1,1 @@
+Hallo an alle :) Ich würde gerne alle MP3-Dateien vom Musik-Register rauskopieren (USB Stick, SD Karte?) und nach dem Löschen/Ordnen der Lieder wieder reinverschieben. Nur habe ich diesbezüglich keine Option im Command gefunden :/ Meine Frage, ist dies vielleicht gar nicht möglich?

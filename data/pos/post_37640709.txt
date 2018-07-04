@@ -1,0 +1,1 @@
+VIN-Abfrage läuft zur Zeit noch/wieder über VIN_Kiev. Ging jedenfalls gestern Abend, aber wenn ich es richtig sehe, kann man von der gleichen IP aus nur 5 Abfragen machen .... weswegen ich es jetzt nicht noch einmal ausprobieren will. (Link aus w123-forum, in dem die Angaben just vor zwei Tagen aktualisiert wurden. Thanx!)

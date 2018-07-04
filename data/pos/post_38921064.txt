@@ -1,0 +1,1 @@
+STG 07 -> Kanal 002 (MMI-Anzeigeoptionen) Anzeigeoption für MMI Funktionalität CAR Menü. ?xx: Karosserievariante 0 - Limousine (PR-4F0) 1 - Avant (PR-4F0 K8D) x?x: Fahrgestellnummer 0 - Fahrgestellnummer (VIN) nicht anzeigen 1 - Fahrgestellnummer (VIN) anzeigen xx?: Karosserievariante 0 - Rechtslenker (PR-L0R) 1 - Linkslenker (PR-L0L)

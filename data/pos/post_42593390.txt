@@ -1,0 +1,1 @@
+Mit dieser Funktion machst Du den Beitrag nicht mehr sichtbar. Es wird ein Beitrag darüber hinzugefügt, in welchem die Begründung angegeben wird. Alle Moderatoren können diesen Post dennoch sehen, nur eben die User nicht.

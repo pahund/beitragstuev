@@ -1,0 +1,1 @@
+kurze Erklärung: im KI wird kein Wartungsintervall eingestellt, sondern die Ölsorte nach MB. Daraus rechnet sich der Bordrechner die nächste Laufzeit bis zum nächsten Assyst. Im Anhang nochmal die PDF-Datei von MB, welche die zu erwartende km-Zahl bei welchem Motor, bei welchen Öl angibt. tschüß Tiny

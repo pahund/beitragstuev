@@ -1,0 +1,1 @@
+Mit dieser Funktion kannst Du die Bilder eines Blogs entfernen. Allerdings ist diese Funktion mit der Aktion "Beitrag bearbeiten" deutlich angenehmer.

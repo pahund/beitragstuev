@@ -1,0 +1,1 @@
+Hallo zusammen, ich hatte dieses Problem auch (W220 BJ99), es lag wohl daran dass sich der Öffnungsmechanismus vom Kofferraumdeckel festgefroren hat. Mit der neuen Sicherung gehts wieder.

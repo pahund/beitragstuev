@@ -1,0 +1,1 @@
+Der Fehler war in den Steckern vom Steuergerät versteckt, anscheinend Übergangswiderstand durch Korrosion.

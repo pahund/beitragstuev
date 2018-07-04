@@ -1,0 +1,1 @@
+Hallo, ich habe einen 525 Touring E61 und nun folgendes Problem: Es werden bei stehendem Auto und ausgeschalteter Zündung ca. 9A aus der Batterie gesaugt. Ich habe nun eine nach der anderen Sicherung abgezogen und dann wieder eingesetzt. Es ändert sich nichts an dem Stromfluß. Was könnte da falsch sein? Wo wird der Strom verbraucht? hat jemand von euch eine Idee? Grüße von Helmut

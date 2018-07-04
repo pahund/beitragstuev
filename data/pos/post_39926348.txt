@@ -1,0 +1,1 @@
+Umrüstanleitung: http://www.motor-talk.de/forum/aktion/Attachment.html?attachmentId=719328 Nicht vergessen, dass du eine UEC (Motorraumelektronikmodul) brauchst, welches Xenon und die SRA unterstützt. Sofern du einen Wagen ohne ESP hast, brauchst du auch ein neues CIM. Teileliste im Anhang

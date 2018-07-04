@@ -1,0 +1,1 @@
+Ok, geht nicht. Ohne das "http://" davor würde dieser Link nämlich direkt eine Skype-Verbindung zu mir aufbauen. (Falls online usw. aber das ist ja eigentlich logisch.) Na ja, kann man nix machen.

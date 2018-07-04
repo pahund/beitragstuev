@@ -1,0 +1,1 @@
+Es ist möglich die Rückleuchten mit dem Tagfahrlicht mitleuchten zu lassen. Da es sich im Produktionlebens die Steuergeräte immer wieder geändert worden sind, gibt es verschiedene Codierungen dafür. 5 Türer (Sportback) ab Mj10 (BCM): Byte 18 von 2B auf 2C ändern. 3 Türer ab Mj10 (BCM): Byte 18 von 25 auf 26 ändern. restliche Modelljahre folgen

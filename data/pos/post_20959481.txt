@@ -1,0 +1,1 @@
+Schau mal ob bei dir ein Cookie "mtmodpost" existiert. Das muss auf "false" stehen. Dann wird der Haken auch nicht mehr gesetzt. Gruß Michael

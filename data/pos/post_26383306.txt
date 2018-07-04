@@ -1,0 +1,1 @@
+Um einen Screenshot vom MMI-Bildschirm zu erstellen, müssen die Pfeiltasten links und rechts von Return gleichzeitig für mehrere Sekunden gedrückt werden. Auf der SD-Karte im Slot 1 (insofern vorhanden) wird dabei eine *.png Datei erzeugt.
