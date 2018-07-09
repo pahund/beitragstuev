@@ -1,28 +1,14 @@
 """
-Trains a data model with MOTOR-TALK forum posts (from the “data” directory) and classifies some example texts.
+Restores the data model created by running train-model.py and classifies some example texts.
 """
 
 import time
 
-from utils import reduce_logging_output, load_dataset, create, print_analysis
-
-# ------
-# Config
-# ------
-
-text_embedding_module = "https://tfhub.dev/google/nnlm-de-dim128/1"
-model_dir = "models/checkpoint"
-
-# -----------
-# Preparation
-# -----------
+from config import text_embedding_module, model_dir
+from utils import reduce_logging_output, create, print_analysis
 
 start_time = time.time()
 reduce_logging_output()
-
-# ----
-# Main
-# ----
 
 estimator = create(text_embedding_module, model_dir)
 
@@ -80,8 +66,7 @@ my_positive = "Guten Morgen Hatte eigentlich nur die Startautomatik am Vergaser 
               "auf dem Kabel ist auch Spannung? Wieso geht das nicht? Woher nimmt der Anlasser Masse? " \
               "Gibt es überhaupt eine extra Masseverbindung? Zündanlasschalter wurde gewechselt und die " \
               "Leitungen überprüft. Alles OK. Kurzschliessen ohne Schlüssel hilft auch nicht."
-# print prediction
-print("*** ANALYZING ***")
+
 print_analysis(mt_positive, estimator)
 print_analysis(mt_negative, estimator)
 print_analysis(my_negative, estimator)
