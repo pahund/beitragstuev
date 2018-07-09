@@ -4,42 +4,27 @@ Trains a data model with MOTOR-TALK forum posts (from the “data” directory) 
 
 import time
 
-from utils import reduce_logging_output, load_dataset, create_and_train, print_analysis
+from utils import reduce_logging_output, load_dataset, create, print_analysis
 
 # ------
 # Config
 # ------
 
-data_base_path = "data"
 text_embedding_module = "https://tfhub.dev/google/nnlm-de-dim128/1"
-training_steps = 1000
+model_dir = "models/checkpoint"
 
-# ---------
-# Load Data
-# ---------
-
-print("*** LOADING ***")
+# -----------
+# Preparation
+# -----------
 
 start_time = time.time()
-
 reduce_logging_output()
 
-training_data = load_dataset(data_base_path)
+# ----
+# Main
+# ----
 
-print("dataset loading DONE:")
-print(training_data.head())
-
-# ---------------
-# Train Estimator
-# ---------------
-
-print("*** TRAINING ***")
-estimator = create_and_train(training_data, text_embedding_module, training_steps)
-print("estimator training DONE")
-
-# ---------------------------------
-# Predict polarity of a single text
-# ---------------------------------
+estimator = create(text_embedding_module, model_dir)
 
 mt_positive = "Guten Tag, Nachdem in diesem, sowie in anderen Foren sehr häufig nachgefragt wird, ob ein " \
               "Angebot auf einer der bekannten Automobilhandelsplattformen der Realität entspricht und leider " \

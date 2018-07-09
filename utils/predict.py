@@ -18,3 +18,5 @@ def print_analysis(sentence, estimator):
     prediction = predict(sentence, estimator)
     print(classify(prediction))
     print(rate(prediction))
+
+
