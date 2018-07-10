@@ -13,7 +13,12 @@ along with the following packages:
 * tensorflow
 * tensorflow_hub 
 * pandas 
-* numpy 
+
+Command for installing the packages:
+
+```
+pip3 install tensorflow tensorflow_hub pandas
+```
 
 ## Available Scripts
 
@@ -38,8 +43,23 @@ This data is used by the `train-model.py` script.
 
 ## Classifying Text from the Command Line
 
-After having created and trained the model by having run `train-model.py` once, you can use the `classify.py` 
-script to classify text from the command line, for example like this:
+Before everything else, you need to train the model using the text files in the `data` directory, with this
+command:
+
+```
+./train-model.py
+```
+
+Be aware that depending on the processing power of your 'puter, this may take quite some time (~5 minutes on 
+a late 2016 model MacBook Pro). The model takes up about 500 MB hard disk space, so make sure that is available.
+
+**Caveat for colleagues from eBay:** for some reason, the *.dev* top level domain is blocked in our corp and
+guest networks, this results in a network error when running the training script, because the word embedding
+files required for classification can't be downloaded from *https://tfhub.dev/google/nnlm-de-dim128/1*.
+You'll have to resort to running the script at home or using mobile phone tethering.
+
+After having created and trained the model, you can use the `classify.py` script to classify text from the 
+command line, for example like this:
 
 ```
 echo "Das Paket „S Line Competition“ umfasst unter anderem optische Details, eine neue Farbe (Turboblau), 19-Zöller und LED-Lampen." | ./classify.py
