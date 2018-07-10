@@ -1,8 +1,14 @@
+#!/usr/bin/env python3
 """
 Trains a data model with MOTOR-TALK forum posts (from the “data” directory).
 """
 
+import sys
 import time
+import warnings
+
+if not sys.warnoptions:
+    warnings.simplefilter("ignore")
 
 from config import data_dir, text_embedding_module, training_steps, model_dir
 from utils import reduce_logging_output, load_dataset, create, train

@@ -1,8 +1,14 @@
+#!/usr/bin/env python3
 """
 Restores the data model created by running train-model.py and saves it for later use.
 """
 
+import sys
 import time
+import warnings
+
+if not sys.warnoptions:
+    warnings.simplefilter("ignore")
 
 from config import text_embedding_module, save_dir, model_dir
 from utils import reduce_logging_output, create, save
