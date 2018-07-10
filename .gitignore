@@ -5,5 +5,7 @@
 __pycache__/
 *.py[cod]
 
+out
+
 # we can't put the model in Git because it's too large
 models
